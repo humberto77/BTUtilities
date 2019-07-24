@@ -8,7 +8,7 @@ setup(
   author = 'David Sinex',                   
   author_email = 'dave.sinex@btgeophysics.com',    
   url = 'http://www.btgeophysics.com',  
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/humberto77/BTUtilities/archive/R0_1.tar.gz',    
   keywords = ['Utilities', 'BTG'],   
   install_requires=[           
           'jsonpickle',
