@@ -1,1 +1,1 @@
-from BTUtilities.compression import json_zip, json_unzip
+from BTLibrary.compression import json_zip, json_unzip

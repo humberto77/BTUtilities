@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'BTLibrary',
   packages = ['BTLibrary'],   
-  version = '0.2',      
+  version = '0.3',      
   license='MIT',       
   description = 'This package is used to provide various utilities for project support.',   
   author = 'David Sinex',                   
