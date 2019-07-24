@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'BTUtilities',         
-  packages = ['BTUtilities'],   
-  version = '0.1',      
+  name = 'BTLibrary',
+  packages = ['BTLibrary'],   
+  version = '0.2',      
   license='MIT',       
   description = 'This package is used to provide various utilities for project support.',   
   author = 'David Sinex',                   
   author_email = 'dave.sinex@btgeophysics.com',    
   url = 'http://www.btgeophysics.com',  
-  download_url = 'https://github.com/humberto77/BTUtilities/archive/R0_1.tar.gz',    
+  download_url = 'https://github.com/humberto77/BTUtilities/archive/R0_2.tar.gz',    
   keywords = ['Utilities', 'BTG'],   
   install_requires=[           
           'jsonpickle',
