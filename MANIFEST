@@ -3,3 +3,4 @@ setup.cfg
 setup.py
 BTLibrary/__init__.py
 BTLibrary/compression.py
+BTLibrary/s3upload.py

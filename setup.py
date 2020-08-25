@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'BTLibrary',
   packages = ['BTLibrary'],   
-  version = '0.3',      
+  version = '0.4',      
   license='MIT',       
   description = 'This package is used to provide various utilities for project support.',   
   author = 'David Sinex',                   
@@ -12,6 +12,7 @@ setup(
   keywords = ['Utilities', 'BTG'],   
   install_requires=[           
           'jsonpickle',
+          'requests',
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
